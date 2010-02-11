@@ -12,11 +12,8 @@
  * ***************************************************************************/
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Graffiti.Core;
 using System.Collections.Specialized;
+using Graffiti.Core;
 
 namespace Graffiti.RssExtensions
 {
