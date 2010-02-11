@@ -82,7 +82,7 @@ namespace Graffiti.RssExtensions
 		protected override FormElementCollection AddFormElements()
 		{
 			FormElementCollection fec = new FormElementCollection();
-			fec.Add(new CheckFormElement("enableRssCategories", "Enable Rss Categories", "Allows you to specify custom &lt;category&gt; elements on individual posts", false));
+			fec.Add(new CheckFormElement("enableRssCategories", "Enable RSS Categories", "Allows you to specify custom &lt;category&gt; elements on individual posts", false));
 
 			return fec;
 		}
