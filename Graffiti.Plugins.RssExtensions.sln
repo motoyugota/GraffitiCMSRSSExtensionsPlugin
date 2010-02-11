@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graffiti.Plugins.RssExtensions", "Graffiti.Plugins.RssExtensions\Graffiti.Plugins.RssExtensions.csproj", "{05CEA1CC-0EB4-4FBC-A9D0-B2D5169765B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graffiti.Plugins.RssExtensions", "Graffiti.RssExtensions\Graffiti.Plugins.RssExtensions.csproj", "{05CEA1CC-0EB4-4FBC-A9D0-B2D5169765B8}"
 EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
